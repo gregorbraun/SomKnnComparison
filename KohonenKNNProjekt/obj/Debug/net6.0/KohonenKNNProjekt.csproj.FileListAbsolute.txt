@@ -1,0 +1,15 @@
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.exe
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.deps.json
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.runtimeconfig.json
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.dll
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.pdb
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.csproj.AssemblyReference.cache
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.AssemblyInfoInputs.cache
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.AssemblyInfo.cs
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.csproj.CoreCompileInputs.cache
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.dll
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\refint\KohonenKNNProjekt.dll
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.pdb
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.genruntimeconfig.cache
+D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\ref\KohonenKNNProjekt.dll
