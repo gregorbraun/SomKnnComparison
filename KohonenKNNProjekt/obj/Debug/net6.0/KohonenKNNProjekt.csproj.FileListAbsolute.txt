@@ -13,3 +13,18 @@ D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNPro
 D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.pdb
 D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.genruntimeconfig.cache
 D:\Lynne\Master\zweites Semester\KI-Vorlesung\MKI_LyMa8\KI_PROJEKT\KohonenKNNProjekt\obj\Debug\net6.0\ref\KohonenKNNProjekt.dll
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.exe
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.deps.json
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.runtimeconfig.json
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.dll
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\bin\Debug\net6.0\KohonenKNNProjekt.pdb
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.GeneratedMSBuildEditorConfig.editorconfig
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.AssemblyInfoInputs.cache
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.AssemblyInfo.cs
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.csproj.CoreCompileInputs.cache
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.sourcelink.json
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.dll
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\refint\KohonenKNNProjekt.dll
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.pdb
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\KohonenKNNProjekt.genruntimeconfig.cache
+J:\REPO_STUD\Master\SS_25\Lynne Makuate Nono\KohonenKNNProjekt\obj\Debug\net6.0\ref\KohonenKNNProjekt.dll

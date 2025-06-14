@@ -1,6 +1,7 @@
 ﻿// Projekt C# - Kohonen-Karte mit KNN-Vergleich
 // Verwendeter Datensatz: Iris (150 Stichproben, 4 Merkmale, 3 Klassen)
 
+using KohonenKNNProjekt;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -37,7 +38,7 @@ namespace KohonenKNN
         // Liest den Iris-Datensatz ein
         static List<Datenpunkt> LadeIrisDatensatz(string pfad)
         {
-            var zeilen = File.ReadAllLines(pfad).Skip(1); // Ignore la 1re ligne (en-tête)
+            var zeilen = IrisData.Data.Split("\n".ToCharArray());//File.ReadAllLines(pfad).Skip(1); // Ignore la 1re ligne (en-tête)
             var datensatz = new List<Datenpunkt>();
             foreach (var zeile in zeilen)
             {
