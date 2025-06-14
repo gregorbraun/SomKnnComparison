@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "J:\\REPO_STUD\\Master\\SS_25\\Lynne Makuate Nono\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj": {}
+    "D:\\Lynne\\Master\\zweites Semester\\KI-Vorlesung\\MKI_LyMa8\\KI_PROJEKT\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj": {}
   },
   "projects": {
-    "J:\\REPO_STUD\\Master\\SS_25\\Lynne Makuate Nono\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj": {
+    "D:\\Lynne\\Master\\zweites Semester\\KI-Vorlesung\\MKI_LyMa8\\KI_PROJEKT\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\REPO_STUD\\Master\\SS_25\\Lynne Makuate Nono\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj",
+        "projectUniqueName": "D:\\Lynne\\Master\\zweites Semester\\KI-Vorlesung\\MKI_LyMa8\\KI_PROJEKT\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj",
         "projectName": "KohonenKNNProjekt",
-        "projectPath": "J:\\REPO_STUD\\Master\\SS_25\\Lynne Makuate Nono\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj",
-        "packagesPath": "C:\\Users\\Gregor Braun\\.nuget\\packages\\",
-        "outputPath": "J:\\REPO_STUD\\Master\\SS_25\\Lynne Makuate Nono\\KohonenKNNProjekt\\obj\\",
+        "projectPath": "D:\\Lynne\\Master\\zweites Semester\\KI-Vorlesung\\MKI_LyMa8\\KI_PROJEKT\\KohonenKNNProjekt\\KohonenKNNProjekt.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\Lynne\\Master\\zweites Semester\\KI-Vorlesung\\MKI_LyMa8\\KI_PROJEKT\\KohonenKNNProjekt\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "Q:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gregor Braun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
         }
       }
     }
